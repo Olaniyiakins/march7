@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(148, 145, 141);
+}
+p{
+    color: rgb(63, 29, 29);
+    
+}
+.email{
+    padding-left: 20px;
+}
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: rgb(63, 29, 29);
+    
+
+}
+.shop1{
+    text-decoration: none;
+    color: azure;
+
+}
+nav{
+
+    background-color: rgb(63, 29, 29);
+    height: 80px;
+}
+.nav-link{
+    font-weight: 700;
+    color: antiquewhite;
+}
+.flower{
+    text-decoration: none;
+}
+.btn{
+    float: left;
+    
+}
+#navbarSupportedContent{
+    float: left;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.nav-item{
+    padding-right: 30px;
+}
+
+.flowerbay{
+    padding-top: 220px;
+    color: rgb(63, 29, 29);
+}
+.lovely{
+    padding-top: 20px;
+    line-height: 40px;
+    font-weight: normal;
+    padding-bottom: 20px;
+     color:rgb(63, 29, 29);
+}
+
+.page222{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
+.our{
+    margin-left: 100px;
+}
+.card-title .card-text .btn{
+    padding-left: 50px;
+
+}
+.backg1{
+    background-color: rgb(134, 140, 146);
+    margin:10px  10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom:0px ; 
+    padd
+
+    
+}
+.abouth{
+    padding-top: 150px;
+}
+.imageabout{
+    margin-top: 150px;
+   margin-left: 150px;
+    
+}
+
+.backg11{
+    background-color: rgb(63, 29, 29);
+}
+.our{
+    color: rgb(63, 29, 29);
+}
+.page2{
+color:rgb(63, 29, 29);
+
+}
+h1{
+    color:rgb(63, 29, 29);
+    overflow: hidden;
+
+}
+h2{
+   color:bisque
+}
+.fp{
+    color:bisque;
+}
+.hf{
+    color:bisque;
+}
+.pcontact{
+    color:bisque;
+}
+.link {
+    color:bisque;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+.signup{
+    color:bisque;
+}
+
+.links1{
+    color:bisque;
+}
+.signup1{
+    background-color: beige;
+    text-decoration: none;
+}
